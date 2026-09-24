@@ -235,8 +235,8 @@ def load_state(nif: str) -> dict:
 # ---------------------------------------------------------------------------
 # Autenticação simples por palavra-passe
 # ---------------------------------------------------------------------------
-# ALTERA ESTA PASSWORD para a que quiseres partilhar com os colegas
-PASSWORD = "certis2026"
+# ALTERA ESTA  para a que quiseres partilhar com os colegas
+PASSWORD = "certis"
 
 def check_password():
     """Retorna True se a password estiver correta."""
